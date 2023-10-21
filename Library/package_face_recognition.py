@@ -62,7 +62,7 @@ def face_recognition(image, model_lbph):
     try :
         face, bounding_box = face_detection(img)
     except:
-        print ("No face detected")
+        print ("No face detected 1")
         
         
     label = model_lbph.predict(face)
