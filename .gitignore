@@ -1,3 +1,5 @@
 
 *.jpg
 Library/model_lbph.yml
+venvFaceRecognition/
+
