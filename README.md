@@ -10,7 +10,17 @@ venvFaceRecognition/Scripts/activate
 ```
 https://www.youtube.com/watch?v=KxvKCSwlUv8 
 
+## install requirements
+```
+pip install -r requirements.txt
+```
+
 
 ## Source :
 https://iq.opengenus.org/lbph-algorithm-for-face-recognition/
+
+https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/
+
+
+
 
