@@ -19,6 +19,9 @@ Path : Transfert_learning_YOLO/
 
 Description : The goal is to detect if a person is wearing glasses or not. To proceed we've used at first a detection solution but unfortunatly the copped image of the face discard the back ground and do not permit to generalize the detection. So we've used a classification solution. 
 
+![Confusion Matrix](https://github.com/LeTouristeDeLECAM/AI_Identification_Face_Recognition/blob/main/Transfert_learning_YOLO/Classification/runs/classify/train2/confusion_matrix.png)
+
+
 ### Data set :
 The Dataset is MeGlass, all the face images are selected and cleaned from MegaFace.
 We used the version composed of copped images 120x120.
