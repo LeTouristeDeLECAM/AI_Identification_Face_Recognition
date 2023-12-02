@@ -1,10 +1,15 @@
 
 *.jpg
 Library/model_lbph.yml
-venvFaceRecognition/
 Library/yolov8l.pt
 Library/yolov8m.pt
-Transfert_learning_YOLO/Classification/runs/classify/tain
-Transfert_learning_YOLO/Classification/runs/classify/tain3
-Transfert_learning_YOLO/Classification/runs/classify/tain10
+yolov8l.pt
+yolov8m.pt
+
+
+venvFaceRecognition/
+
+Transfert_learning_YOLO/Classification/runs/classify/tain/
+Transfert_learning_YOLO/Classification/runs/classify/tain3/
+Transfert_learning_YOLO/Classification/runs/classify/tain10/
 
