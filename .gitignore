@@ -10,4 +10,5 @@ venvFaceRecognition/
 Transfert_learning_YOLO/Classification/runs/classify/tain/
 Transfert_learning_YOLO/Classification/runs/classify/tain3/
 Transfert_learning_YOLO/Classification/runs/classify/tain10/
-
+Transfert_learning_YOLO\Detection\meta.txt
+Transfert_learning_YOLO\Detection\metaCopy.txt

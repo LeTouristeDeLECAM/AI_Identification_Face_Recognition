@@ -4,6 +4,8 @@
 
  Instructions: https://kenn7.github.io/AIproject/project/
 
+ Final project : 
+
 
 ## Research about the implementation of face recognition
 
@@ -51,7 +53,7 @@ format :
 The best model is train2 model with 10 epochs and a batch size of 640.
 The dataset is composed of 1250 faces divided in 2:  
 
-- Test set : Eyeglasses = 174, No Eyeglasses = 176
+- Test set : Eyeglasses = 174, No Eyeglasses = 126
 - Train set : Eyeglasses = 537, No Eyeglasses = 663
 
 ![Confusion Matrix](https://github.com/LeTouristeDeLECAM/AI_Identification_Face_Recognition/blob/main/Transfert_learning_YOLO/Classification/runs/classify/train2/confusion_matrix.png)
