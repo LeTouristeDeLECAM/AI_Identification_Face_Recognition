@@ -78,3 +78,11 @@ https://iq.opengenus.org/lbph-algorithm-for-face-recognition/
 
 https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/
 
+@article{guo2018face,
+  title={Face Synthesis for Eyeglass-Robust Face Recognition},
+  author={Guo, Jianzhu and Zhu, Xiangyu and Lei, Zhen and Li, Stan Z},
+  journal={arXiv preprint arXiv:1806.01196},
+  year={2018}
+}
+
+
